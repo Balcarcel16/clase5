@@ -1,0 +1,40 @@
+body {
+    background-color:rgb(51, 10, 8);
+}
+h1 {
+    color: aliceblue;
+    font-family: verdana;
+    text-align: center;
+}
+p {
+    background-color: rgb(48, 48, 46);
+    color: aqua;
+    text-align: center;
+}
+#textoRojo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+#textoespecial {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #66e766;
+}
+h2 {
+    color: rgb(222, 241, 42);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    border: black;
+    border-style: solid;
+    background-color: rgb(85, 72, 55);
+    
+    
+}
+h2:hover{
+    background-color: aqua;
+
+}
+#textoo {
+    color: rgb(37, 132, 214);
+    font-family: verdana;
+    text-align: center;
+}
